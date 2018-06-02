@@ -2,3 +2,7 @@
 "Hello World2"
 
 for Commit
+
+for staging area
+
+for local working directory
